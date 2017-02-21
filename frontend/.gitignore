@@ -1,0 +1,8 @@
+vendor/
+.DS_Store
+.htaccess
+.htpasswd
+.env
+error_log
+access_log
+composer.lock

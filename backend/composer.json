@@ -1,0 +1,14 @@
+{
+    "name": "mannie/backend",
+    "require": {
+        "slim/slim": "^3.7",
+        "vlucas/phpdotenv": "^2.4",
+        "slim/twig-view": "*"
+    },
+    "authors": [
+        {
+            "name": "Manjinder Gill",
+            "email": "manjinder.gill@ecdltd.co.uk"
+        }
+    ]
+}

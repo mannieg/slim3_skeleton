@@ -1,0 +1,12 @@
+{
+    "name": "mannie/frontend",
+    "require": {
+        "vlucas/phpdotenv": "^2.4"
+    },
+    "authors": [
+        {
+            "name": "Manjinder Gill",
+            "email": "manjinder.gill@ecdltd.co.uk"
+        }
+    ]
+}
