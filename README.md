@@ -1,7 +1,7 @@
 Slim 3 Skeleton (Frontend/Backend)
 =================
 
-A simple Slim 3 Skeleton with seperate frontend and backend structure.
+A simple Slim 3 Skeleton with separate frontend and backend structure.
 
 ## Prerequisites
 * Composer
